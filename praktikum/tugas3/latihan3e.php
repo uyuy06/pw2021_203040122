@@ -30,7 +30,7 @@ $books = [
         "Terbit" => "1898",
         "Dimensi" => "-",
         "ISBN" => "-",
-        "gambar" => "3.png"
+        "img" => "3.png"
     ],
     [
         "Judul" => "The Magic of Thinking Big",
@@ -54,7 +54,7 @@ $books = [
         "Terbit" => "-",
         "Dimensi" => "-",
         "ISBN" => "-",
-        "gambar" => "6.png"
+        "img" => "6.png"
     ],
     [
         "Judul" => "The Science of Getting Rich",
