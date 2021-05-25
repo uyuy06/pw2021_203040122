@@ -1,0 +1,59 @@
+.nav-wrapper a {
+    color: goldenrod;
+    margin-right: 20px;
+}
+
+.nav-wrapper a:hover {
+    color: white;
+}
+
+
+#mobile-nav a {
+    color: goldenrod;
+    margin-top: 30px;
+}
+
+.slider h3,
+.slider h5 {
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+#about {
+    height: 400px;
+    margin-top: 50px;
+}
+
+#about p {
+    font-size: 20px;
+    color:ghostwhite;
+    font-weight: bold;
+}
+
+#testimoni h4 {
+    padding-bottom: 30px;
+}
+
+#booking {
+    padding-top: 40px;
+}
+
+#booking h4 {
+    margin-left: 10px;
+    padding-bottom: 15px;
+}
+
+#location {
+    padding-top: 100px;
+    padding-bottom: 60px;
+}
+
+#location ul li {
+    color: goldenrod;
+    font-weight: bold;
+}
+
+.footer {
+    color: goldenrod;
+    text-align: center;
+    padding: 1px 0;
+}
